@@ -176,3 +176,4 @@ Zendesk
 Susquehanna
 Grasshopper
 Shopback
+Virtu Financial
