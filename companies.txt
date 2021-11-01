@@ -178,3 +178,10 @@ Grasshopper
 Shopback
 Virtu Financial
 Open Government Products
+Credit Suisse
+Morgan Stanley
+Plaid
+DropBox
+Optiver
+Roblox
+Samsara
