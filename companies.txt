@@ -180,7 +180,6 @@ Virtu Financial
 Open Government Products
 Credit Suisse
 Plaid
-DropBox
 Optiver
 Samsara
 WorldQuant
