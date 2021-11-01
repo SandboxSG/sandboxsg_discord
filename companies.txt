@@ -187,3 +187,4 @@ Roblox
 Samsara
 WorldQuant
 IBM
+Slack
