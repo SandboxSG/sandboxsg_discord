@@ -1,0 +1,170 @@
+Amazon   
+Facebook   
+Google
+Microsoft
+Apple
+Bloomberg
+Adobe
+Uber
+Goldman Sachs
+Oracle
+LinkedIn
+ByteDance
+eBay
+JPMorgan
+Cisco
+VMware
+Yahoo
+Salesforce
+DoorDash
+Roblox
+Walmart Labs
+Snapchat
+Paypal
+Capital One
+Expedia
+Twitter
+Yandex
+Citadel
+Karat
+Atlassian
+Qualtrics
+Zillow
+Intuit
+Lyft
+Flipkart
+Citrix
+Wish
+SAP
+Airbnb
+Mathworks
+Indeed
+Wayfair
+Quora
+Nutanix
+Nvidia
+DE Shaw
+Splunk
+Visa
+Databricks
+ServiceNow
+Two Sigma
+Morgan Stanley
+tiktok
+Dropbox
+Twilio
+PayTM
+Tesla
+Square
+Shopee
+Spotify
+Pinterest
+Robinhood
+tcs
+IBM
+Rubrik
+Codenation
+Samsung
+Grab
+Coupang
+Audible
+Yelp
+DiDi
+Pocket Gems   
+Docusign
+Palantir Technologies
+IXL
+Box
+Intel
+Akuna Capital
+Twitch
+Qualcomm
+Netflix
+Swiggy
+Accolite
+Dunzo
+Infosys
+Pure Storage
+Tableau
+Quip (Salesforce)
+Redfin
+Affirm
+Asana
+American Express
+Huawei
+Zoho
+Cloudera
+FactSet
+Postmates
+Cruise Automation
+Myntra
+HBO
+Barclays
+TripleByte
+Reddit
+HRT
+GoDaddy
+Media.net
+Sprinklr
+Hulu
+MakeMyTrip
+Opendoor
+AppDynamics
+Nagarro
+Sumologic
+Cohesity
+Tencent
+Groupon
+Houzz
+Bolt
+Hotstar
+TripAdvisor
+Toptal
+BlackRock
+Zulily
+Zynga
+Zoom
+Akamai
+Arista Networks
+Garena
+Poshmark
+Jane Street
+Alation   
+Duolingo
+Booking.com
+Alibaba
+Deutsche Bank
+Dell
+Optum
+MindTickle
+Directi
+Coursera
+Fleetx
+Helix
+Airtel
+Vimeo
+Evernote
+C3 IoT
+Jump Trading
+Epic Systems
+GovTech
+DSTA
+Ninja Van
+Shopee
+Syngenta
+Carousell
+Agilent Technologies
+Dathena
+Bluente
+Stripe
+Hypotenuse AI
+Dathena
+AlphaLab
+Alstom
+DBS
+Temasek
+GIC
+Makino Asia Group
+OCBC
+Squarepoint Capital
+Bank of America
