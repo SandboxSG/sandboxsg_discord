@@ -185,3 +185,5 @@ DropBox
 Optiver
 Roblox
 Samsara
+WorldQuant
+IBM
